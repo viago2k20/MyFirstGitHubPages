@@ -1,6 +1,6 @@
 # Zhuravskii Denis Vladimirovich
 
-<img src="/Users/deniszhuravskii/Netology/MyFirstGitHubPages/IMG_5997.jpg" width="150" height="220">
+<img src="IMG_5997.jpg" width="150" height="220">
 
  DENIS ZHURAVSKII           | Professional experience 
  ---------------------------|:-------------------------|
